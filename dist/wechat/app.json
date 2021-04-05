@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/collect/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "Remax Wechat Template",
+    "navigationBarBackgroundColor": "#282c34"
+  }
+}

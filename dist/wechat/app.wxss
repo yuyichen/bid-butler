@@ -1,0 +1,10 @@
+page {
+  /* background: #282c34; */
+}
+.flex {
+  display: flex;
+}
+.flex-1 {
+  flex: 1;
+}
+
